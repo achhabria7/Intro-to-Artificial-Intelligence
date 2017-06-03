@@ -1,0 +1,470 @@
+Car Data
+('Iteration:', 0, 'Num of Perceptron:', 0)
+Starting training at time 16:26:32.391255 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:32.473777 with training error 0.057441 and weight change 0.003823
+Feed Forward Test correctly classified 1070, incorrectly classified 458, test percent error  0.700262
+
+('Iteration:', 1, 'Num of Perceptron:', 0)
+Starting training at time 16:26:32.495084 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:32.534400 with training error 0.057441 and weight change 0.003823
+Feed Forward Test correctly classified 1070, incorrectly classified 458, test percent error  0.700262
+
+('Iteration:', 2, 'Num of Perceptron:', 0)
+Starting training at time 16:26:32.544279 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:32.575026 with training error 0.057441 and weight change 0.003823
+Feed Forward Test correctly classified 1070, incorrectly classified 458, test percent error  0.700262
+
+('Iteration:', 3, 'Num of Perceptron:', 0)
+Starting training at time 16:26:32.585739 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:32.619788 with training error 0.057441 and weight change 0.003823
+Feed Forward Test correctly classified 1070, incorrectly classified 458, test percent error  0.700262
+
+('Iteration:', 4, 'Num of Perceptron:', 0)
+Starting training at time 16:26:32.627225 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:32.662296 with training error 0.057441 and weight change 0.003823
+Feed Forward Test correctly classified 1070, incorrectly classified 458, test percent error  0.700262
+
+0 , 0.700261780105 , 0.700261780105 , 0.0
+('Iteration:', 0, 'Num of Perceptron:', 5)
+Starting training at time 16:26:32.669807 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:33.044962 with training error 0.007593 and weight change 0.000245
+Feed Forward Test correctly classified 1318, incorrectly classified 210, test percent error  0.862565
+
+('Iteration:', 1, 'Num of Perceptron:', 5)
+Starting training at time 16:26:33.064625 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:33.366371 with training error 0.007128 and weight change 0.000258
+Feed Forward Test correctly classified 1321, incorrectly classified 207, test percent error  0.864529
+
+('Iteration:', 2, 'Num of Perceptron:', 5)
+Starting training at time 16:26:33.378190 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:33.802141 with training error 0.007881 and weight change 0.000324
+Feed Forward Test correctly classified 1284, incorrectly classified 244, test percent error  0.840314
+
+('Iteration:', 3, 'Num of Perceptron:', 5)
+Starting training at time 16:26:33.810928 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:34.108254 with training error 0.005784 and weight change 0.000211
+Feed Forward Test correctly classified 1307, incorrectly classified 221, test percent error  0.855366
+
+('Iteration:', 4, 'Num of Perceptron:', 5)
+Starting training at time 16:26:34.117765 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:34.427220 with training error 0.006338 and weight change 0.000261
+Feed Forward Test correctly classified 1309, incorrectly classified 219, test percent error  0.856675
+
+5 , 0.864528795812 , 0.855890052356 , 0.00851691020157
+('Iteration:', 0, 'Num of Perceptron:', 10)
+Starting training at time 16:26:34.436570 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:34.959032 with training error 0.004240 and weight change 0.000153
+Feed Forward Test correctly classified 1332, incorrectly classified 196, test percent error  0.871728
+
+('Iteration:', 1, 'Num of Perceptron:', 10)
+Starting training at time 16:26:34.971535 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:35.484122 with training error 0.004029 and weight change 0.000157
+Feed Forward Test correctly classified 1332, incorrectly classified 196, test percent error  0.871728
+
+('Iteration:', 2, 'Num of Perceptron:', 10)
+Starting training at time 16:26:35.495380 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:36.026692 with training error 0.004836 and weight change 0.000174
+Feed Forward Test correctly classified 1317, incorrectly classified 211, test percent error  0.861911
+
+('Iteration:', 3, 'Num of Perceptron:', 10)
+Starting training at time 16:26:36.037628 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:36.581471 with training error 0.003924 and weight change 0.000164
+Feed Forward Test correctly classified 1329, incorrectly classified 199, test percent error  0.869764
+
+('Iteration:', 4, 'Num of Perceptron:', 10)
+Starting training at time 16:26:36.593156 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:37.135305 with training error 0.004299 and weight change 0.000157
+Feed Forward Test correctly classified 1347, incorrectly classified 181, test percent error  0.881545
+
+10 , 0.881544502618 , 0.871335078534 , 0.00625813250674
+('Iteration:', 0, 'Num of Perceptron:', 15)
+Starting training at time 16:26:37.146681 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:37.908390 with training error 0.004745 and weight change 0.000110
+Feed Forward Test correctly classified 1297, incorrectly classified 231, test percent error  0.848822
+
+('Iteration:', 1, 'Num of Perceptron:', 15)
+Starting training at time 16:26:37.920846 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:38.676494 with training error 0.003954 and weight change 0.000128
+Feed Forward Test correctly classified 1339, incorrectly classified 189, test percent error  0.876309
+
+('Iteration:', 2, 'Num of Perceptron:', 15)
+Starting training at time 16:26:38.690420 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:39.464586 with training error 0.003598 and weight change 0.000113
+Feed Forward Test correctly classified 1304, incorrectly classified 224, test percent error  0.853403
+
+('Iteration:', 3, 'Num of Perceptron:', 15)
+Starting training at time 16:26:39.478741 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:40.253736 with training error 0.004507 and weight change 0.000125
+Feed Forward Test correctly classified 1317, incorrectly classified 211, test percent error  0.861911
+
+('Iteration:', 4, 'Num of Perceptron:', 15)
+Starting training at time 16:26:40.266336 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:41.052819 with training error 0.004565 and weight change 0.000132
+Feed Forward Test correctly classified 1334, incorrectly classified 194, test percent error  0.873037
+
+15 , 0.876308900524 , 0.862696335079 , 0.0106930043275
+('Iteration:', 0, 'Num of Perceptron:', 20)
+Starting training at time 16:26:41.065879 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:42.069002 with training error 0.003727 and weight change 0.000096
+Feed Forward Test correctly classified 1316, incorrectly classified 212, test percent error  0.861257
+
+('Iteration:', 1, 'Num of Perceptron:', 20)
+Starting training at time 16:26:42.084327 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:43.090659 with training error 0.003038 and weight change 0.000107
+Feed Forward Test correctly classified 1345, incorrectly classified 183, test percent error  0.880236
+
+('Iteration:', 2, 'Num of Perceptron:', 20)
+Starting training at time 16:26:43.105022 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:44.129262 with training error 0.003014 and weight change 0.000090
+Feed Forward Test correctly classified 1285, incorrectly classified 243, test percent error  0.840969
+
+('Iteration:', 3, 'Num of Perceptron:', 20)
+Starting training at time 16:26:44.144065 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:45.152550 with training error 0.003443 and weight change 0.000094
+Feed Forward Test correctly classified 1315, incorrectly classified 213, test percent error  0.860602
+
+('Iteration:', 4, 'Num of Perceptron:', 20)
+Starting training at time 16:26:45.166591 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:46.124292 with training error 0.002957 and weight change 0.000106
+Feed Forward Test correctly classified 1308, incorrectly classified 220, test percent error  0.856021
+
+20 , 0.880235602094 , 0.859816753927 , 0.0125640815142
+('Iteration:', 0, 'Num of Perceptron:', 25)
+Starting training at time 16:26:46.140326 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:47.320401 with training error 0.003676 and weight change 0.000094
+Feed Forward Test correctly classified 1270, incorrectly classified 258, test percent error  0.831152
+
+('Iteration:', 1, 'Num of Perceptron:', 25)
+Starting training at time 16:26:47.335714 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:48.513583 with training error 0.003237 and weight change 0.000095
+Feed Forward Test correctly classified 1282, incorrectly classified 246, test percent error  0.839005
+
+('Iteration:', 2, 'Num of Perceptron:', 25)
+Starting training at time 16:26:48.529421 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:49.716835 with training error 0.003389 and weight change 0.000092
+Feed Forward Test correctly classified 1298, incorrectly classified 230, test percent error  0.849476
+
+('Iteration:', 3, 'Num of Perceptron:', 25)
+Starting training at time 16:26:49.734412 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:50.971691 with training error 0.003590 and weight change 0.000102
+Feed Forward Test correctly classified 1304, incorrectly classified 224, test percent error  0.853403
+
+('Iteration:', 4, 'Num of Perceptron:', 25)
+Starting training at time 16:26:50.990286 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:52.260378 with training error 0.003168 and weight change 0.000089
+Feed Forward Test correctly classified 1301, incorrectly classified 227, test percent error  0.851440
+
+25 , 0.853403141361 , 0.844895287958 , 0.0084826448932
+('Iteration:', 0, 'Num of Perceptron:', 30)
+Starting training at time 16:26:52.276848 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:53.724949 with training error 0.002532 and weight change 0.000084
+Feed Forward Test correctly classified 1304, incorrectly classified 224, test percent error  0.853403
+
+('Iteration:', 1, 'Num of Perceptron:', 30)
+Starting training at time 16:26:53.744556 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:55.222328 with training error 0.002438 and weight change 0.000088
+Feed Forward Test correctly classified 1328, incorrectly classified 200, test percent error  0.869110
+
+('Iteration:', 2, 'Num of Perceptron:', 30)
+Starting training at time 16:26:55.242073 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+Finished after 195 iterations at time 16:26:56.762627 with training error 0.003135 and weight change 0.000080
+Feed Forward Test correctly classified 1308, incorrectly classified 220, test percent error  0.856021
+
+('Iteration:', 3, 'Num of Perceptron:', 30)
+Starting training at time 16:26:56.782759 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:26:58.248611 with training error 0.002710 and weight change 0.000081
+Feed Forward Test correctly classified 1298, incorrectly classified 230, test percent error  0.849476
+
+('Iteration:', 4, 'Num of Perceptron:', 30)
+Starting training at time 16:26:58.268201 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+Finished after 193 iterations at time 16:26:59.927091 with training error 0.003377 and weight change 0.000080
+Feed Forward Test correctly classified 1313, incorrectly classified 215, test percent error  0.859293
+
+30 , 0.869109947644 , 0.857460732984 , 0.00665354189903
+('Iteration:', 0, 'Num of Perceptron:', 35)
+Starting training at time 16:26:59.944980 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:27:01.645648 with training error 0.002660 and weight change 0.000080
+Feed Forward Test correctly classified 1299, incorrectly classified 229, test percent error  0.850131
+
+('Iteration:', 1, 'Num of Perceptron:', 35)
+Starting training at time 16:27:01.665424 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+Finished after 190 iterations at time 16:27:03.358659 with training error 0.002801 and weight change 0.000080
+Feed Forward Test correctly classified 1309, incorrectly classified 219, test percent error  0.856675
+
+('Iteration:', 2, 'Num of Perceptron:', 35)
+Starting training at time 16:27:03.380442 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:27:05.087904 with training error 0.002802 and weight change 0.000085
+Feed Forward Test correctly classified 1289, incorrectly classified 239, test percent error  0.843586
+
+('Iteration:', 3, 'Num of Perceptron:', 35)
+Starting training at time 16:27:05.108818 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+Finished after 161 iterations at time 16:27:06.448992 with training error 0.003457 and weight change 0.000080
+Feed Forward Test correctly classified 1253, incorrectly classified 275, test percent error  0.820026
+
+('Iteration:', 4, 'Num of Perceptron:', 35)
+Starting training at time 16:27:06.468506 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+Finished after 196 iterations at time 16:27:08.271196 with training error 0.002296 and weight change 0.000080
+Feed Forward Test correctly classified 1331, incorrectly classified 197, test percent error  0.871073
+
+35 , 0.871073298429 , 0.848298429319 , 0.0168151694793
+('Iteration:', 0, 'Num of Perceptron:', 40)
+Starting training at time 16:27:08.295899 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+Finished after 186 iterations at time 16:27:10.293296 with training error 0.002668 and weight change 0.000080
+Feed Forward Test correctly classified 1292, incorrectly classified 236, test percent error  0.845550
+
+('Iteration:', 1, 'Num of Perceptron:', 40)
+Starting training at time 16:27:10.315878 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+Finished after 184 iterations at time 16:27:12.066608 with training error 0.002553 and weight change 0.000079
+Feed Forward Test correctly classified 1290, incorrectly classified 238, test percent error  0.844241
+
+('Iteration:', 2, 'Num of Perceptron:', 40)
+Starting training at time 16:27:12.090136 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:27:13.992586 with training error 0.003192 and weight change 0.000089
+Feed Forward Test correctly classified 1284, incorrectly classified 244, test percent error  0.840314
+
+('Iteration:', 3, 'Num of Perceptron:', 40)
+Starting training at time 16:27:14.014813 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+Finished after 195 iterations at time 16:27:15.875625 with training error 0.002852 and weight change 0.000080
+Feed Forward Test correctly classified 1291, incorrectly classified 237, test percent error  0.844895
+
+('Iteration:', 4, 'Num of Perceptron:', 40)
+Starting training at time 16:27:15.898439 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+Finished after 188 iterations at time 16:27:17.661132 with training error 0.002478 and weight change 0.000080
+Feed Forward Test correctly classified 1326, incorrectly classified 202, test percent error  0.867801
+
+40 , 0.86780104712 , 0.848560209424 , 0.00979141581637
+Pen Data
+('Iteration:', 0, 'Num of Perceptron:', 0)
+Starting training at time 16:27:17.706939 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:19.738209 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+('Iteration:', 1, 'Num of Perceptron:', 0)
+Starting training at time 16:27:19.774878 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:21.853675 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+('Iteration:', 2, 'Num of Perceptron:', 0)
+Starting training at time 16:27:21.888799 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:23.979051 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+('Iteration:', 3, 'Num of Perceptron:', 0)
+Starting training at time 16:27:24.013823 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:26.076064 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+('Iteration:', 4, 'Num of Perceptron:', 0)
+Starting training at time 16:27:26.109297 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:28.140374 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+0 , 0.0 , 0.0 , 0.0
+('Iteration:', 0, 'Num of Perceptron:', 5)
+Starting training at time 16:27:28.175623 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:27:47.807421 with training error 0.005288 and weight change 0.000261
+Feed Forward Test correctly classified 2950, incorrectly classified 548, test percent error  0.843339
+
+('Iteration:', 1, 'Num of Perceptron:', 5)
+Starting training at time 16:27:47.868127 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:28:07.307504 with training error 0.004562 and weight change 0.000327
+Feed Forward Test correctly classified 2992, incorrectly classified 506, test percent error  0.855346
+
+('Iteration:', 2, 'Num of Perceptron:', 5)
+Starting training at time 16:28:07.358973 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:28:27.074604 with training error 0.005171 and weight change 0.000319
+Feed Forward Test correctly classified 2936, incorrectly classified 562, test percent error  0.839337
+
+('Iteration:', 3, 'Num of Perceptron:', 5)
+Starting training at time 16:28:27.126228 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:28:46.860338 with training error 0.005482 and weight change 0.000284
+Feed Forward Test correctly classified 2962, incorrectly classified 536, test percent error  0.846770
+
+('Iteration:', 4, 'Num of Perceptron:', 5)
+Starting training at time 16:28:46.914120 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:29:06.676170 with training error 0.005028 and weight change 0.000254
+Feed Forward Test correctly classified 2997, incorrectly classified 501, test percent error  0.856775
+
+5 , 0.856775300172 , 0.848313321898 , 0.00676413329728
+('Iteration:', 0, 'Num of Perceptron:', 10)
+Starting training at time 16:29:06.731476 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:29:41.291954 with training error 0.002960 and weight change 0.000105
+Feed Forward Test correctly classified 3132, incorrectly classified 366, test percent error  0.895369
+
+('Iteration:', 1, 'Num of Perceptron:', 10)
+Starting training at time 16:29:41.397312 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:30:15.879187 with training error 0.002870 and weight change 0.000087
+Feed Forward Test correctly classified 3099, incorrectly classified 399, test percent error  0.885935
+
+('Iteration:', 2, 'Num of Perceptron:', 10)
+Starting training at time 16:30:15.943006 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:30:50.259502 with training error 0.003101 and weight change 0.000096
+Feed Forward Test correctly classified 3071, incorrectly classified 427, test percent error  0.877930
+
+('Iteration:', 3, 'Num of Perceptron:', 10)
+Starting training at time 16:30:50.324505 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:31:24.116997 with training error 0.002901 and weight change 0.000142
+Feed Forward Test correctly classified 3107, incorrectly classified 391, test percent error  0.888222
+
+('Iteration:', 4, 'Num of Perceptron:', 10)
+Starting training at time 16:31:24.181359 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 200 iterations at time 16:31:58.869628 with training error 0.002940 and weight change 0.000103
+Feed Forward Test correctly classified 3085, incorrectly classified 413, test percent error  0.881933
+
+10 , 0.895368782161 , 0.885877644368 , 0.00590432505131
+('Iteration:', 0, 'Num of Perceptron:', 15)
+Starting training at time 16:31:58.938246 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 146 iterations at time 16:32:33.323948 with training error 0.002631 and weight change 0.000080
+Feed Forward Test correctly classified 3120, incorrectly classified 378, test percent error  0.891938
+
+('Iteration:', 1, 'Num of Perceptron:', 15)
+Starting training at time 16:32:33.406291 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 130 iterations at time 16:33:04.175932 with training error 0.002643 and weight change 0.000080
+Feed Forward Test correctly classified 3156, incorrectly classified 342, test percent error  0.902230
+
+('Iteration:', 2, 'Num of Perceptron:', 15)
+Starting training at time 16:33:04.248197 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 115 iterations at time 16:33:31.620499 with training error 0.002588 and weight change 0.000080
+Feed Forward Test correctly classified 3166, incorrectly classified 332, test percent error  0.905089
+
+('Iteration:', 3, 'Num of Perceptron:', 15)
+Starting training at time 16:33:31.690713 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 164 iterations at time 16:34:10.707149 with training error 0.002529 and weight change 0.000080
+Feed Forward Test correctly classified 3163, incorrectly classified 335, test percent error  0.904231
+
+('Iteration:', 4, 'Num of Perceptron:', 15)
+Starting training at time 16:34:10.782630 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 157 iterations at time 16:34:48.372673 with training error 0.002514 and weight change 0.000080
+Feed Forward Test correctly classified 3149, incorrectly classified 349, test percent error  0.900229
+
+15 , 0.90508862207 , 0.900743281875 , 0.0047127343705
+('Iteration:', 0, 'Num of Perceptron:', 20)
+Starting training at time 16:34:48.443246 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 94 iterations at time 16:35:17.419261 with training error 0.002730 and weight change 0.000080
+Feed Forward Test correctly classified 3134, incorrectly classified 364, test percent error  0.895941
+
+('Iteration:', 1, 'Num of Perceptron:', 20)
+Starting training at time 16:35:17.503877 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 87 iterations at time 16:35:44.322594 with training error 0.002713 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+('Iteration:', 2, 'Num of Perceptron:', 20)
+Starting training at time 16:35:44.407133 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 108 iterations at time 16:36:17.346070 with training error 0.002560 and weight change 0.000080
+Feed Forward Test correctly classified 3185, incorrectly classified 313, test percent error  0.910520
+
+('Iteration:', 3, 'Num of Perceptron:', 20)
+Starting training at time 16:36:17.432263 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 95 iterations at time 16:36:46.793874 with training error 0.002688 and weight change 0.000080
+Feed Forward Test correctly classified 3174, incorrectly classified 324, test percent error  0.907376
+
+('Iteration:', 4, 'Num of Perceptron:', 20)
+Starting training at time 16:36:46.875819 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 84 iterations at time 16:37:13.022326 with training error 0.002768 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+20 , 0.910520297313 , 0.904917095483 , 0.00486697768897
+('Iteration:', 0, 'Num of Perceptron:', 25)
+Starting training at time 16:37:13.109466 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 61 iterations at time 16:37:35.900726 with training error 0.002783 and weight change 0.000080
+Feed Forward Test correctly classified 3180, incorrectly classified 318, test percent error  0.909091
+
+('Iteration:', 1, 'Num of Perceptron:', 25)
+Starting training at time 16:37:35.986125 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 62 iterations at time 16:37:59.589451 with training error 0.002771 and weight change 0.000079
+Feed Forward Test correctly classified 3175, incorrectly classified 323, test percent error  0.907662
+
+('Iteration:', 2, 'Num of Perceptron:', 25)
+Starting training at time 16:37:59.687421 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 58 iterations at time 16:38:21.001512 with training error 0.002911 and weight change 0.000080
+Feed Forward Test correctly classified 3174, incorrectly classified 324, test percent error  0.907376
+
+('Iteration:', 3, 'Num of Perceptron:', 25)
+Starting training at time 16:38:21.090255 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 72 iterations at time 16:38:48.704542 with training error 0.002675 and weight change 0.000080
+Feed Forward Test correctly classified 3170, incorrectly classified 328, test percent error  0.906232
+
+('Iteration:', 4, 'Num of Perceptron:', 25)
+Starting training at time 16:38:48.797561 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 74 iterations at time 16:39:17.173129 with training error 0.002700 and weight change 0.000079
+Feed Forward Test correctly classified 3175, incorrectly classified 323, test percent error  0.907662
+
+25 , 0.909090909091 , 0.90760434534 , 0.000911227984592
+('Iteration:', 0, 'Num of Perceptron:', 30)
+Starting training at time 16:39:17.265072 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 54 iterations at time 16:39:41.359164 with training error 0.003041 and weight change 0.000079
+Feed Forward Test correctly classified 3116, incorrectly classified 382, test percent error  0.890795
+
+('Iteration:', 1, 'Num of Perceptron:', 30)
+Starting training at time 16:39:41.463568 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 62 iterations at time 16:40:10.674789 with training error 0.002874 and weight change 0.000079
+Feed Forward Test correctly classified 3173, incorrectly classified 325, test percent error  0.907090
+
+('Iteration:', 2, 'Num of Perceptron:', 30)
+Starting training at time 16:40:10.834939 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 60 iterations at time 16:40:37.273752 with training error 0.002824 and weight change 0.000079
+Feed Forward Test correctly classified 3151, incorrectly classified 347, test percent error  0.900800
+
+('Iteration:', 3, 'Num of Perceptron:', 30)
+Starting training at time 16:40:37.376542 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 54 iterations at time 16:41:01.643631 with training error 0.002683 and weight change 0.000079
+Feed Forward Test correctly classified 3183, incorrectly classified 315, test percent error  0.909949
+
+('Iteration:', 4, 'Num of Perceptron:', 30)
+Starting training at time 16:41:01.742589 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 58 iterations at time 16:41:28.511992 with training error 0.002880 and weight change 0.000079
+Feed Forward Test correctly classified 3180, incorrectly classified 318, test percent error  0.909091
+
+30 , 0.909948542024 , 0.90354488279 , 0.00713343492249
+('Iteration:', 0, 'Num of Perceptron:', 35)
+Starting training at time 16:41:28.620145 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 58 iterations at time 16:41:59.775295 with training error 0.002703 and weight change 0.000080
+Feed Forward Test correctly classified 3159, incorrectly classified 339, test percent error  0.903087
+
+('Iteration:', 1, 'Num of Perceptron:', 35)
+Starting training at time 16:41:59.888829 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 60 iterations at time 16:42:32.223826 with training error 0.002764 and weight change 0.000080
+Feed Forward Test correctly classified 3140, incorrectly classified 358, test percent error  0.897656
+
+('Iteration:', 2, 'Num of Perceptron:', 35)
+Starting training at time 16:42:32.335927 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 55 iterations at time 16:43:01.335722 with training error 0.002883 and weight change 0.000079
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+('Iteration:', 3, 'Num of Perceptron:', 35)
+Starting training at time 16:43:01.450279 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 58 iterations at time 16:43:31.873521 with training error 0.002883 and weight change 0.000079
+Feed Forward Test correctly classified 3161, incorrectly classified 337, test percent error  0.903659
+
+('Iteration:', 4, 'Num of Perceptron:', 35)
+Starting training at time 16:43:31.987980 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 51 iterations at time 16:43:58.315049 with training error 0.002952 and weight change 0.000079
+Feed Forward Test correctly classified 3163, incorrectly classified 335, test percent error  0.904231
+
+35 , 0.905374499714 , 0.902801600915 , 0.00268177001705
+('Iteration:', 0, 'Num of Perceptron:', 40)
+Starting training at time 16:43:58.422455 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 45 iterations at time 16:44:24.406256 with training error 0.002808 and weight change 0.000080
+Feed Forward Test correctly classified 3156, incorrectly classified 342, test percent error  0.902230
+
+('Iteration:', 1, 'Num of Perceptron:', 40)
+Starting training at time 16:44:24.529112 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 49 iterations at time 16:44:53.360113 with training error 0.003013 and weight change 0.000079
+Feed Forward Test correctly classified 3160, incorrectly classified 338, test percent error  0.903373
+
+('Iteration:', 2, 'Num of Perceptron:', 40)
+Starting training at time 16:44:53.479247 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 48 iterations at time 16:45:21.733062 with training error 0.002918 and weight change 0.000080
+Feed Forward Test correctly classified 3154, incorrectly classified 344, test percent error  0.901658
+
+('Iteration:', 3, 'Num of Perceptron:', 40)
+Starting training at time 16:45:21.857518 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 52 iterations at time 16:45:52.589009 with training error 0.002791 and weight change 0.000080
+Feed Forward Test correctly classified 3148, incorrectly classified 350, test percent error  0.899943
+
+('Iteration:', 4, 'Num of Perceptron:', 40)
+Starting training at time 16:45:52.732119 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 48 iterations at time 16:46:21.494391 with training error 0.002739 and weight change 0.000079
+Feed Forward Test correctly classified 3158, incorrectly classified 340, test percent error  0.902802
+
+40 , 0.903373356204 , 0.902001143511 , 0.0011773161968

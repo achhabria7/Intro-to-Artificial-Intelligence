@@ -1,0 +1,49 @@
+Starting training at time 16:04:01.346840 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 74 iterations at time 16:04:21.044974 with training error 0.002620 and weight change 0.000080
+Feed Forward Test correctly classified 3133, incorrectly classified 365, test percent error  0.895655
+
+Starting training at time 16:04:21.146280 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 16:04:22.403790 with training error 0.002826 and weight change 0.000125
+Feed Forward Test correctly classified 1270, incorrectly classified 258, test percent error  0.831152
+
+Starting training at time 16:04:22.435784 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 65 iterations at time 16:04:39.836995 with training error 0.002803 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test percent error  0.903945
+
+Starting training at time 16:04:39.915315 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 16:04:41.173802 with training error 0.002314 and weight change 0.000102
+Feed Forward Test correctly classified 1314, incorrectly classified 214, test percent error  0.859948
+
+Starting training at time 16:04:41.196112 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 65 iterations at time 16:04:58.252934 with training error 0.002833 and weight change 0.000080
+Feed Forward Test correctly classified 3111, incorrectly classified 387, test percent error  0.889365
+
+Starting training at time 16:04:58.327072 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 16:04:59.575579 with training error 0.002867 and weight change 0.000127
+Feed Forward Test correctly classified 1307, incorrectly classified 221, test percent error  0.855366
+
+Starting training at time 16:04:59.594807 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 77 iterations at time 16:05:19.849066 with training error 0.002759 and weight change 0.000080
+Feed Forward Test correctly classified 3169, incorrectly classified 329, test percent error  0.905946
+
+Starting training at time 16:05:19.920117 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 16:05:21.106174 with training error 0.001911 and weight change 0.000093
+Feed Forward Test correctly classified 1301, incorrectly classified 227, test percent error  0.851440
+
+Starting training at time 16:05:21.126065 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 76 iterations at time 16:05:40.552736 with training error 0.002901 and weight change 0.000080
+Feed Forward Test correctly classified 3122, incorrectly classified 376, test percent error  0.892510
+
+Starting training at time 16:05:40.626961 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 16:05:41.811109 with training error 0.002719 and weight change 0.000117
+Feed Forward Test correctly classified 1252, incorrectly classified 276, test percent error  0.819372
+
+('Pen Data Average Accuracy: ', 0.8974842767295599)
+('Pen Data Max Accuracy: ', 0.9059462550028587)
+('Pen Data St Dev Accuracy: ', 0.006439802436389388)
+[0.8956546598056032, 0.9039451114922813, 0.8893653516295026, 0.9059462550028587, 0.8925100057175529]
+('Car Data Average Accuracy: ', 0.843455497382199)
+('Car Data Max Accuracy: ', 0.8599476439790575)
+('Car Data St Dev Accuracy: ', 0.015550046711908096)
+[0.831151832460733, 0.8599476439790575, 0.8553664921465969, 0.8514397905759162, 0.819371727748691]
+

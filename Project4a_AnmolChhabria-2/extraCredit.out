@@ -1,0 +1,29 @@
+urine_pushing = yes
+|---micturition_pains = yes
+|---|---yes
+|---micturition_pains = no
+|---|---burning = yes
+|---|---|---temperature_of_patient = 39
+|---|---|---|---no
+|---|---|---temperature_of_patient = 38
+|---|---|---|---no
+|---|---|---temperature_of_patient = 42
+|---|---|---|---lumbar_pain = yes
+|---|---|---|---|---occurrence_nausea = yes
+|---|---|---|---|---|---no
+|---|---|---|---|---occurrence_nausea = no
+|---|---|---|---|---|---no
+|---|---|---|---lumbar_pain = no
+|---|---|---|---|---no
+|---|---|---temperature_of_patient = 37
+|---|---|---|---no
+|---|---|---temperature_of_patient = 36
+|---|---|---|---no
+|---|---|---temperature_of_patient = 40
+|---|---|---|---no
+|---|---|---temperature_of_patient = 41
+|---|---|---|---no
+|---|---burning = no
+|---|---|---yes
+urine_pushing = no
+|---no

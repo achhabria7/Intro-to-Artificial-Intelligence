@@ -1,0 +1,66 @@
+Q1 1 2 3 4 5 6 7 8
+Q2 1 2 3 4 5 6 7 8
+Q3 1 2 3 4 5 6 7 8
+Q4 1 2 3 4 5 6 7 8
+Q5 1 2 3 4 5 6 7 8
+Q6 1 2 3 4 5 6 7 8
+Q7 1 2 3 4 5 6 7 8
+Q8 1 2 3 4 5 6 7 8
+0
+NotEqualConstraint Q1 Q2
+NotEqualConstraint Q1 Q3
+NotEqualConstraint Q1 Q4
+NotEqualConstraint Q1 Q5
+NotEqualConstraint Q1 Q6
+NotEqualConstraint Q1 Q7
+NotEqualConstraint Q1 Q8
+NotEqualConstraint Q2 Q3
+NotEqualConstraint Q2 Q4
+NotEqualConstraint Q2 Q5
+NotEqualConstraint Q2 Q6
+NotEqualConstraint Q2 Q7
+NotEqualConstraint Q2 Q8
+NotEqualConstraint Q3 Q4
+NotEqualConstraint Q3 Q5
+NotEqualConstraint Q3 Q6
+NotEqualConstraint Q3 Q7
+NotEqualConstraint Q3 Q8
+NotEqualConstraint Q4 Q5
+NotEqualConstraint Q4 Q6
+NotEqualConstraint Q4 Q7
+NotEqualConstraint Q4 Q8
+NotEqualConstraint Q5 Q6
+NotEqualConstraint Q5 Q7
+NotEqualConstraint Q5 Q8
+NotEqualConstraint Q6 Q7
+NotEqualConstraint Q6 Q8
+NotEqualConstraint Q7 Q8
+NotInDiagonalConstraint Q1 Q2 1
+NotInDiagonalConstraint Q1 Q3 2
+NotInDiagonalConstraint Q1 Q4 3
+NotInDiagonalConstraint Q1 Q5 4
+NotInDiagonalConstraint Q1 Q6 5
+NotInDiagonalConstraint Q1 Q7 6
+NotInDiagonalConstraint Q1 Q8 7
+NotInDiagonalConstraint Q2 Q3 1
+NotInDiagonalConstraint Q2 Q4 2
+NotInDiagonalConstraint Q2 Q5 3
+NotInDiagonalConstraint Q2 Q6 4
+NotInDiagonalConstraint Q2 Q7 5
+NotInDiagonalConstraint Q2 Q8 6
+NotInDiagonalConstraint Q3 Q4 1
+NotInDiagonalConstraint Q3 Q5 2
+NotInDiagonalConstraint Q3 Q6 3
+NotInDiagonalConstraint Q3 Q7 4
+NotInDiagonalConstraint Q3 Q8 5
+NotInDiagonalConstraint Q4 Q5 1
+NotInDiagonalConstraint Q4 Q6 2
+NotInDiagonalConstraint Q4 Q7 3
+NotInDiagonalConstraint Q4 Q8 4
+NotInDiagonalConstraint Q5 Q6 1
+NotInDiagonalConstraint Q5 Q7 2
+NotInDiagonalConstraint Q5 Q8 3
+NotInDiagonalConstraint Q6 Q7 1
+NotInDiagonalConstraint Q6 Q8 2
+NotInDiagonalConstraint Q7 Q8 1
+0
