@@ -1,0 +1,5 @@
+correct = 'Any dictionary where every variable is assigned a value in its domain such that queens in an 8x8 chess board cannot attack each other'
+if result is None:
+	success = False
+else:
+    	success = True

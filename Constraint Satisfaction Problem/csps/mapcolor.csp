@@ -1,0 +1,18 @@
+WA R G B
+NT R G B
+SA R G B
+QQ R G B
+NS R G B
+VI R G B
+TA R G B
+0
+NotEqualConstraint WA NT
+NotEqualConstraint WA SA
+NotEqualConstraint NT QQ
+NotEqualConstraint NT SA
+NotEqualConstraint SA QQ
+NotEqualConstraint SA NS
+NotEqualConstraint SA VI
+NotEqualConstraint QQ NS
+NotEqualConstraint NS VI
+0

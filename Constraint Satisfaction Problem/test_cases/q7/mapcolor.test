@@ -1,0 +1,6 @@
+solve
+csp csps/mapcolor.csp
+function leastConstrainingValuesHeuristic
+function minimumRemainingValuesHeuristic
+function maintainArcConsistency
+boolean True
